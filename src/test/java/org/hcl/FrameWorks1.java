@@ -7,6 +7,10 @@ public class FrameWorks1 {
 		System.out.println("POM");
 		System.out.println("Junit");
 		System.out.println("TestNg");
+		System.out.println("cucumber");
+
+		
+
 	}
 
 }
